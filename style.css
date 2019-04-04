@@ -1,0 +1,47 @@
+body {
+		margin-top: 30px;
+		margin-left: 250px;
+		margin-right: 250px;
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 100px;
+		padding-left: 100px;
+		background-color: #f5fffa;
+		text-align: left;
+		font-family: helvetica, sans serif;
+	}
+	
+
+	#me {
+		text-align: center;
+		font-size: 30px;
+		font-family: helvetica, sans serif;
+	}
+	
+
+	#contact {
+		text-align: center;
+		font-size: 18px;
+		margin-top: -45px;
+		margin-bottom: 40px;
+		font-family: helvetica, sans serif;
+	}
+	
+
+	h2{
+		font-size: 24px;
+		font-style: bold;
+		font-family: helvetica, sans serif;
+	}
+	
+
+	h3{
+		font-family: helvetica, sans serif;
+		font-size: 20px;
+	}
+	
+
+	p {
+		color: black;
+	}
+
