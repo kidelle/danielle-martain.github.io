@@ -10,14 +10,21 @@ body {
 		text-align: left;
 		font-family: helvetica, sans serif;
 		
-	}
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+
+}
 	
 
 	#me {
 		text-align: center;
 		font-size: 30px;
 		font-family: helvetica, sans serif;
-	}
+}
 	
 
 	#contact {
